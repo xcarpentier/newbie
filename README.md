@@ -11,7 +11,7 @@ node test.js
 python test.py
 
 # git
-git add .
-git commit -m 'message'
-git push
-git pull
+* `git add .`
+* `git commit -m 'message'`
+* `git push`
+* `git pull`
